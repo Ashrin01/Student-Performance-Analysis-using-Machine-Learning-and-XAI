@@ -25,7 +25,7 @@ Differnt ML algorithems were used to measure the accuracy, precision, recall and
 | Naive Bayes | 0.61 | 0.66 | 0.59
 | AdaBoost | 0.87 | 0.89 | 0.87
 | Logistic Regression | 0.93 | 0.96 | 0.93
-| Descision Tree | 0.63 | 0.73 | 0.63
+| Decision Tree | 0.63 | 0.73 | 0.63
 
 ## XAI
 
